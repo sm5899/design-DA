@@ -7,4 +7,4 @@ In order to get started you will need:
 
 
 [OpenChem](https://github.com/Mariewelt/OpenChem)   
-[RDKit](https://github.com/rdkit/rdkit) : a collection of chemoinformatics and Machine Learning software
+[RDKit](https://github.com/rdkit/rdkit) 
